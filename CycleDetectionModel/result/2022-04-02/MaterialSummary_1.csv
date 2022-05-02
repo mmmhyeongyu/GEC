@@ -1,3 +1,0 @@
-factory_id,process_id,equipment_id,equipment_name,material,so,gop,qty,total_cycle_avg,total_cycle_max,total_cycle_min,spindle_cycle_avg,spindle_cycle_max,spindle_cycle_min,idle_cycle_avg,idle_cycle_max,idle_cycle_min,start_time,stop_time,total_runtime
-21,84,48,DMU 50 3rd Generation #2,315A6156-73,Y200160800,50,40,0.745,1.138,0.733,0.725,0.732,0.647,0.02,0.428,0.003,2022-03-30 21:12:54,2022-04-01 18:00:23,44.791
-21,47,106,FMS ZT-800 #3,116W2217-605,D200595630,20,2,11.461,18.75,4.172,2.096,2.165,2.026,9.366,16.725,2.007,2022-03-31 16:15:19,2022-04-01 16:57:32,24.704

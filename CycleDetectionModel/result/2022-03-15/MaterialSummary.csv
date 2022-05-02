@@ -1,2 +1,0 @@
-factory_id,process_id,equipment_id,equipment_name,material,so,gop,qty,total_cycle_avg,total_cycle_max,total_cycle_min,spindle_cycle_avg,spindle_cycle_max,spindle_cycle_min,idle_cycle_avg,idle_cycle_max,idle_cycle_min,start_time,stop_time,total_runtime
-21,84,48,DMU 50 3rd Generation #2,RD00103134-43,Y200147680,60,5,3.18,4.09,2.335,2.295,2.491,1.764,0.885,1.626,0.35,2022-03-14 09:30:55,2022-03-15 06:22:53,20.866

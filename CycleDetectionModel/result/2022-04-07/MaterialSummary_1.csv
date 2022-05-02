@@ -1,2 +1,0 @@
-factory_id,process_id,equipment_id,equipment_name,material,so,gop,qty,total_cycle_avg,total_cycle_max,total_cycle_min,spindle_cycle_avg,spindle_cycle_max,spindle_cycle_min,idle_cycle_avg,idle_cycle_max,idle_cycle_min,start_time,stop_time,total_runtime
-21,84,107,EVER 7,141T1381-65,Y200181230,50,8,3.21,4.548,2.582,1.92,2.345,1.709,1.29,2.489,0.728,2022-04-01 17:52:44,2022-04-06 23:35:07,125.706

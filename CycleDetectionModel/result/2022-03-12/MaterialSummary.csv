@@ -1,0 +1,4 @@
+factory_id,process_id,equipment_id,equipment_name,material,so,gop,qty,total_cycle_avg,total_cycle_max,total_cycle_min,spindle_cycle_avg,spindle_cycle_max,spindle_cycle_min,idle_cycle_avg,idle_cycle_max,idle_cycle_min,start_time,stop_time,total_runtime
+21,84,48,DMU 50 3rd Generation #2,RD00103134-41,Y200147650,60,2,2.888,3.582,2.193,1.694,1.756,1.631,1.194,1.826,0.562,2022-03-11 08:06:00,2022-03-12 04:40:19,20.572
+21,84,48,DMU 50 3rd Generation #2,RD00103134-42,Y200147660,60,2,2.888,3.582,2.193,1.697,1.764,1.63,1.19,1.818,0.563,2022-03-11 08:33:47,2022-03-11 17:35:53,9.035
+21,84,48,DMU 50 3rd Generation #2,RD00103134-47,Y200147720,60,3,2.474,2.852,2.19,1.925,1.946,1.914,0.549,0.937,0.244,2022-03-10 22:24:36,2022-03-11 08:05:25,9.68
